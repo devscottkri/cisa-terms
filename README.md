@@ -1,2 +1,2 @@
 # cisa-terms
-CISA Terms of Use
+This repository hosts the Terms of Use for the Commercial Inspection Side App (CISA).
